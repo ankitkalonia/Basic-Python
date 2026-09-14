@@ -1,4 +1,4 @@
-# making flexible functions
+# Making flexible functions
 
 # *operators
 # *args
